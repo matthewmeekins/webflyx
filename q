@@ -1,0 +1,78 @@
+[33mcommit 59da90bba3c49d256a5bcd16d7d157804780528a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m)[m
+Author: matthewmeekins <matthewmeekins@gmail.com>
+Date:   Mon Oct 27 22:53:41 2025 -0400
+
+    I: fear
+
+[33mcommit 3291c41031783a51d620be8d5b3e5c590a04c237[m
+Author: matthewmeekins <matthewmeekins@gmail.com>
+Date:   Mon Oct 27 22:53:03 2025 -0400
+
+    H: spice
+
+[33mcommit de14a21e01287fda8026f22d139d8000d22c371c[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: matthewmeekins <matthewmeekins@gmail.com>
+Date:   Mon Oct 27 22:45:33 2025 -0400
+
+    G: add ben but
+
+[33mcommit 46ffd3a657e4b3665eab8b437a1781f6c734ea29[m
+Merge: 8ce401d 609d77d
+Author: matthewmeekins <matthewmeekins@gmail.com>
+Date:   Mon Oct 27 22:39:57 2025 -0400
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 8ce401dfbafad074532e99d8d6c5ae1e90853474[m
+Author: matthewmeekins <matthewmeekins@gmail.com>
+Date:   Mon Oct 27 22:37:31 2025 -0400
+
+    E: add data content.md
+
+[33mcommit 609d77dbf7a5fc77d997bfe4a359a955743598dc[m
+Author: matthewmeekins <matthewmeekins@gmail.com>
+Date:   Mon Oct 27 22:24:33 2025 -0400
+
+    D: add classics.csv
+
+[33mcommit dfe7e1acc1f761164ab6da47da5621e16b8080c0[m
+Author: matthewmeekins <matthewmeekins@gmail.com>
+Date:   Mon Oct 27 22:06:34 2025 -0400
+
+    C: add quotes
+
+[33mcommit 70f4abdbd4109086798fe6d00c67f0cd499fd824[m
+Author: matthewmeekins <matthewmeekins@gmail.com>
+Date:   Mon Oct 27 22:06:02 2025 -0400
+
+    C: add quotes
+
+[33mcommit 68721a48ab854d4d76712736a482593824f2e474[m
+Author: matthewmeekins <matthewmeekins@gmail.com>
+Date:   Mon Oct 27 22:03:44 2025 -0400
+
+    moved files to quotes
+
+[33mcommit 2755c8840284acd95f5cf241e486ff7f0fb3449b[m
+Author: matthewmeekins <matthewmeekins@gmail.com>
+Date:   Mon Oct 27 22:03:21 2025 -0400
+
+    C: add quotes
+
+[33mcommit 169c4c04da3188addbaddf26d24316c993cf9590[m
+Author: matthewmeekins <matthewmeekins@gmail.com>
+Date:   Mon Oct 27 21:59:03 2025 -0400
+
+    C: add quotes
+
+[33mcommit 84811972c171df81ce2e71dce0b24c681f4ac4c0[m
+Author: matthewmeekins <matthewmeekins@gmail.com>
+Date:   Mon Oct 27 21:53:07 2025 -0400
+
+    B: add titles
+
+[33mcommit 9902eb6168e494ad0888bb304ef3445e5d489e4f[m
+Author: matthewmeekins <matthewmeekins@gmail.com>
+Date:   Mon Oct 27 21:32:58 2025 -0400
+
+    A: add contents.md
